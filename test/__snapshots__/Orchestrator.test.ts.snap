@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Orchestrator binaryVersions returns the cardano software versions 1`] = `
+Object {
+  "cardanoCli": "cardano-cli 1.24.2 - linux-x86_64 - ghc-8.10
+git rev 0000000000000000000000000000000000000000",
+  "cardanoNode": "cardano-node 1.24.2 - linux-x86_64 - ghc-8.10
+git rev 0000000000000000000000000000000000000000",
+}
+`;

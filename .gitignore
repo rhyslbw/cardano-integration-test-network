@@ -1,0 +1,8 @@
+.idea
+*.npmrc
+*.d.ts
+*dist/
+*node_modules/
+result*
+*yarn-error.log
+bin
